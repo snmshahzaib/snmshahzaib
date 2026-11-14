@@ -6,6 +6,22 @@ Software Engineer with 5+ years of experience building and scaling software prod
 
 ---
 
+### Featured Systems & Architecture
+
+- **Multi-Tenant SaaS & Headless Commerce Engine**
+  - Architected multi-tenant e-commerce and custom storefront workflows using **Medusa.js**, **Node.js/TypeScript**, and **PostgreSQL**.
+  - Integrated **Stripe Connect** multi-party payment routing, automated webhook processing, and isolated tenant data boundaries.
+- **Enterprise Identity & Access Platform (OAuth 2.0 / OIDC)**
+  - Designed and deployed a centralized authentication and authorization service supporting **OAuth 2.0** and **OpenID Connect (OIDC)** flows.
+  - Hardened token lifecycle management, role-based access control (RBAC), and session caching with **Redis** for low-latency verification across microservices.
+- **AI / RAG Microservices & Agentic Workflows**
+  - Built production **Retrieval-Augmented Generation (RAG)** pipelines and tool-calling agentic services using **Python**, **FastAPI**, and vector search.
+  - Enabled LLMs to query structured enterprise data, execute deterministic API actions, and automate operational workflows.
+- **ERP & Automotive Catalog Data Pipelines (ACES/PIES)**
+  - Engineered event-driven ingestion and synchronization pipelines connecting **Odoo ERP** systems with industry-standard **ACES/PIES** automotive catalog schemas.
+
+---
+
 ### What I Work On
 - **Backend & Distributed Systems:** Designing resilient APIs, multi-tenant SaaS platforms, distributed architectures, and high-throughput workflows.
 - **Identity & Payments:** Implementing secure authentication services (OAuth 2.0 / OIDC) and payment integrations (Stripe Connect).
@@ -44,3 +60,8 @@ Software Engineer with 5+ years of experience building and scaling software prod
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+---
+
+### GitHub Activity
+[![GitHub Streak](https://streak-stats.demolab.com?user=snmshahzaib&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
